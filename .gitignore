@@ -2,4 +2,7 @@
 .vscode
 target
 .dotty-ide-*
+.bloop
 .metals
+project/metals.sbt
+project/project/
